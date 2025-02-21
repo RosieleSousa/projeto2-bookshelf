@@ -1,0 +1,77 @@
+.title{
+    text-align: center;
+}
+.content{
+    text-align: center;
+}
+.g{
+    text-align: center;
+}
+.button{
+    color: white;
+    background-color:black;
+    border-radius: 15px;
+    border: none;
+}
+.image{
+    text-align: center;
+}
+.explorer{
+    text-align: center;
+    font: sans-serif;
+}
+.discover{
+    text-align: center;
+}
+.option{
+    text-align: center;
+    border-radius: 30px;
+}
+.a{
+    color: white;
+    background-color: #2ab1e6;
+    border-radius: 15px;
+    border: none;
+}
+.b{
+    color: white;
+    background-color: #2ab1e6;
+    border-radius: 15px;
+    border: none;  
+}
+.c{
+    color: white;
+    background-color: #2ab1e6;
+    border-radius: 15px;
+    border: none;
+}
+.d{
+    color: white;
+    background-color: #2ab1e6;
+    border-radius: 15px;
+    border: none;
+}
+.e{
+    color: white;
+    background-color: #2ab1e6;
+    border-radius: 15px;
+    border: none;
+}
+.f{
+    color: white;
+    background-color: black;
+    border-radius: 15px;
+    border: none;  
+}
+.adventure{
+    text-align: center;
+}
+.text{
+    text-align: center;
+}
+.finish{
+    border-radius: 15px;
+    border: none;
+    background-color: black;
+    color: white;
+}
